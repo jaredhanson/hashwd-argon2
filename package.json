@@ -1,26 +1,23 @@
 {
-  "name": "hashwd",
+  "name": "hashwd-argon2",
   "version": "0.0.0",
-  "description": "Reliable password hashing for Node.js.",
+  "description": "Argon2 password hashing for hashwd.",
   "keywords": [
-    "express",
-    "connect",
-    "auth",
-    "authn",
-    "authentication"
+    "argon2",
+    "hashwd",
+    "phc"
   ],
   "author": {
     "name": "Jared Hanson",
     "email": "jaredhanson@gmail.com",
     "url": "https://www.jaredhanson.me/"
   },
-  "homepage": "https://www.passportjs.org/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport.git"
+    "url": "git://github.com/jaredhanson/hashwd-argon2.git"
   },
   "bugs": {
-    "url": "https://github.com/jaredhanson/passport/issues"
+    "url": "https://github.com/jaredhanson/hashwd-argon2/issues"
   },
   "funding": {
     "type": "github",
